@@ -1,8 +1,2 @@
+
 from application import app
-
-
-
-
-
-
-
